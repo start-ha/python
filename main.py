@@ -9,6 +9,10 @@ def sub_func(n1,n2) :
 def mul_func(n1,n2) :
     return n1 * n2
 
+def dev_func(n1,n2) :
+    return n1 / n2
+
+
 
 
 
@@ -25,6 +29,10 @@ print(num1,'-',num2,'=',result)
 
 result = mul_func(num1,num2)
 print(num1,'*',num2,'=',result)
+
+result = dev_func(num1,num2)
+print(num1,'/',num2,'=',result)
+
 
 
 
