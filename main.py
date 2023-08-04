@@ -12,6 +12,9 @@ def mul_func(n1,n2) :
 def dev_func(n1,n2) :
     return n1 / n2
 
+def mul2_func(n1,n2) :
+    return n1 ** n2
+
 
 
 
